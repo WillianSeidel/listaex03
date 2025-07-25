@@ -1,0 +1,42 @@
+/* Estilos básicos para as seções */
+header {
+    background-color: #ec4040;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid #000;
+}
+
+main {
+    background-color: #ee9b9b;
+    color: #333;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid #ccc;
+}
+
+footer {
+    background-color: #614949;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #000;
+}
+
+/* Estilo para todos os h2 */
+h2 {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+/* Classe destaque */
+.destaque {
+    font-style: italic;
+    background-color: #ffffcc;
+}
+
+/* ID importante */
+#importante {
+    border-top: 4px solid #ff0000;
+    padding-top: 10px;
+}
